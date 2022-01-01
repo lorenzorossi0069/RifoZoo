@@ -47,7 +47,13 @@ Lez03:
 
 1h 14': new per pseudo-override a seguito di re-design di metodo (sealed o senza decoration(abstract, virtual)}
 
-Lez10 (Lez10-20211007_Dispose_inizioGenerics)
+1h 36' esercizio gabbie associate ad animali (demo metodi di cui si può fare override)
+
+2h 02': anzichè virtual, pe revitare di dimenticare operazioni, isolo le funzioni comuni
+
+
+Lez10 
+(Lez10-20211007_Dispose_inizioGenerics)
 
 1h 20" inizio generics
 
